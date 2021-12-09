@@ -6,8 +6,6 @@
 
 **Source of Data**: https://www.kaggle.com/nilaychauhan/world-bank-datasets
 
-![World Bank](/Project2/images/bank.gif)
-
 *The data is used from World Bank data which comes from two sources:*
 
 * World Bank Indictor Data: This data contains socio-economic indicators for countries around the world
