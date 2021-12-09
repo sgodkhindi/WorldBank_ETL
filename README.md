@@ -40,12 +40,14 @@
 
 ![ETL](/Project2/images/etl.jpg)
 
+## Accomplishments
+
 ### Electricity & GDP Data
 
 - Extracted electricity_access_percent.csv and gdp_data.csv from source
 - Cleansed and prepped the data by removing unwanted data
 - Performed various visualizations
-- Loaded the final csv file to a dataset
+- Loaded the final csv file to a database
 
 **Line Chart for electricity access percentage by year(1990-2015)**
   
@@ -68,7 +70,7 @@
 - Extracted projects_data.csv from source
 - Cleansed and prepped the data by removing unwanted data
 - Performed various visualizations
-- Loaded the final csv files to a dataset
+- Loaded the final csv files to a database
 
 **Bar Graph for the Top 5 Countries by Total Project Cost for Completed Projects**
   
