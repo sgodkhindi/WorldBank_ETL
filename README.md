@@ -43,16 +43,16 @@
 - Performed various visualizations
 
   **Line Chart for electricity access percentage by year(1990-2015)**
-  ![Electricity-Year](/Project2/images/elec_year.jpg)
+  ![Electricity-Year](/Project2/images/elec_year.png)
   
   **Line Chart for 10 countries with lowest electricity access percentage (1990-2015)**
-  ![Electricity-Bottom10](/Project2/images/elec_country.jpg)
+  ![Electricity-Bottom10](/Project2/images/elec_country.png)
   
   **Line Chart for yearly GDP(1990-2015)**
-  ![GDP-Year](/Project2/images/gdp_year.jpg)
+  ![GDP-Year](/Project2/images/gdp_year.png)
   
   **Line Chart for 10 countries with lowest GDP**
-  ![GDP-Bottom10](/Project2/images/gdp_country.jpg)
+  ![GDP-Bottom10](/Project2/images/gdp_country.png)
 
 - Loaded the final csv file to a dataset
 
