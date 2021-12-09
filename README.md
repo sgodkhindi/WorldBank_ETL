@@ -24,6 +24,8 @@
 2. Notebook: **Jupyter Notebook**
 3. Libraries used: **pandas, matplotlib, create_engine**
 
+![coder](/Project2/images/coder.gif)
+
 ## Outline of Project
 
 - Download csv files from source
