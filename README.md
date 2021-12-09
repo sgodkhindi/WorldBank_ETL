@@ -45,7 +45,7 @@
 
 **Line Chart for electricity access percentage by year(1990-2015)**
   
-![Electricity-Year](/Project2/images/elec_year.png)
+![Electricity-Year](/Project2/images/elec_yearly.png)
   
 **Line Chart for 10 countries with lowest electricity access percentage (1990-2015)**
 
@@ -53,7 +53,7 @@
 
 **Line Chart for yearly GDP(1990-2015)**
 
-![GDP-Year](/Project2/images/gdp_year.png)
+![GDP-Year](/Project2/images/gdp_yearly.png)
 
 **Line Chart for 10 countries with lowest GDP**
 
