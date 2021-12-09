@@ -84,4 +84,13 @@
 
 ![Average Cost By Region - Active Projects](Images/AvgCostByRegionActive.png)
 
+### Population & GDP Data
 
+- Extracted population_data.csv and gdp_data.csv from source
+- Cleansed and prepped the data by removing unwanted data
+- Performed various visualizations
+- Loaded the final csv file to a database
+
+**Bar graph of top 8 Countries by GDP growth**
+  
+![Top 8 Countries](/Images_gdp_pop/top_10_gdp_growth.png)
