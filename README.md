@@ -18,7 +18,7 @@
 
 [World Bank Project Data](https://datacatalog.worldbank.org/search/dataset/0037800)
 
-![World Bank](/Projects2/images/bank1.gif)
+![World Bank](/Project2/images/bank1.gif)
 
 ## Requirements
 
