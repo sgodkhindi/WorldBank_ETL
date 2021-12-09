@@ -70,15 +70,15 @@
 - Performed various visualizations
 - Loaded the final csv files to a dataset
 
-**Bar Graph for the Top 5 Countries by Total Project Cost for Closed Project **
+**Bar Graph for the Top 5 Countries by Total Project Cost for Closed Project**
   
 ![Top 5 Countries By Cost - Closed Projects](Images/Top5CountriesClosed.png)
   
-**Bar Graph for the Bottom 5 Countries by Total Project Cost for Closed Project **
+**Bar Graph for the Bottom 5 Countries by Total Project Cost for Closed Project**
 
 ![Bottom 5 Countries By Cost - Closed Projects](Images/Bottom5CountriesClosed.png)
 
-**Bar Graph for Average Cost By Region for Active Projects **
+**Bar Graph for Average Cost By Region for Active Projects**
 
 ![Average Cost By Region - Active Projects](Images/AvgCostByRegionActive.png)
 
