@@ -63,6 +63,23 @@
 
 ![GDP-Bottom10](/Project2/images/gdp_country.png)
 
+### Projects Data
 
+- Extracted projects_data.csv from source
+- Cleansed and prepped the data by removing unwanted data
+- Performed various visualizations
+- Loaded the final csv files to a dataset
+
+**Bar Graph for the Top 5 Countries by Total Project Cost for Closed Project **
+  
+![Top 5 Countries By Cost - Closed Projects](Images/Top5CountriesClosed.png)
+  
+**Bar Graph for the Bottom 5 Countries by Total Project Cost for Closed Project **
+
+![Bottom 5 Countries By Cost - Closed Projects](Images/Bottom5CountriesClosed.png)
+
+**Bar Graph for Average Cost By Region for Active Projects **
+
+![Average Cost By Region - Active Projects](Images/AvgCostByRegionActive.png)
 
 
