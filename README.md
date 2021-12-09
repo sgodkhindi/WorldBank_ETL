@@ -1,4 +1,4 @@
-# WorldBankers: WorldBank Data - Extract Tranform & Load
+# WorldBank Data - Extract Tranform & Load
 
 ## Team World Bankers: Rudy Duvnjak, Shailesh Godkhindi, Shreya Udeshi
 
@@ -17,4 +17,23 @@
 * World Bank Project Data: This data set contains information about World Bank project lending since 1947
 
 [World Bank Project Data](https://datacatalog.worldbank.org/search/dataset/0037800)
+
+## Requirements
+
+1. Scripting: **Python Scripting**
+2. Notebook: **Jupyter Notebook**
+3. Libraries used: **pandas, matplotlib, create_engine**
+
+## Outline of Project
+
+- Download csv files from source
+- Extract data 
+- Tranform data
+  - combining data from different sources
+  - data cleaning
+  - data types
+- Load the tranformed data to a database
+
+![ETL](/Project2/images/etl.jpeg)
+
 
