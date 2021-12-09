@@ -70,11 +70,11 @@
 - Performed various visualizations
 - Loaded the final csv files to a dataset
 
-**Bar Graph for the Top 5 Countries by Total Project Cost for Closed Projects**
+**Bar Graph for the Top 5 Countries by Total Project Cost for Completed Projects**
   
 ![Top 5 Countries By Cost - Closed Projects](Images/Top5CountriesClosed.png)
   
-**Bar Graph for the Bottom 5 Countries by Total Project Cost for Closed Projects**
+**Bar Graph for the Bottom 5 Countries by Total Project Cost for Completed Projects**
 
 ![Bottom 5 Countries By Cost - Closed Projects](Images/Bottom5CountriesClosed.png)
 
