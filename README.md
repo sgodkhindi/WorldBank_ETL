@@ -2,11 +2,11 @@
 
 ## Team World Bankers: Rudy Duvnjak, Shailesh Godkhindi, Shreya Udeshi
 
+![World Bankers](/Project2/images/bank.gif)
+
 ## Background
 
 **Source of Data**: https://www.kaggle.com/nilaychauhan/world-bank-datasets
-
-![World Bank](/Project2/images/bank.gif)
 
 *The data is used from World Bank data which comes from two sources:*
 
