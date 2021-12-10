@@ -42,9 +42,9 @@
 
 ## Key Deliverables
 ### Jupyter Notebooks
-- [Electricity_Data_Analysis Notebook](/Project2/electricity.ipynb)
-- [Population_GDP_Data_Analysis Notebook](gdp_population_data.ipynb)
-- [Projects_Data_Analysis Notebook](projects_data.ipynb)
+- [Electricity_Data_Analysis](/Project2/electricity.ipynb)
+- [Population_GDP_Data_Analysis](gdp_population_data.ipynb)
+- [Projects_Data_Analysis](projects_data.ipynb)
 
 ### Database Components
 - [Database_Diagram](WorldBank_ETL_Database_Diagram.svg)
