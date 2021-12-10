@@ -94,3 +94,24 @@
 **Bar graph of top 8 Countries by GDP growth**
   
 ![Top 8 Countries](/Images_gdp_pop/top_10_gdp_growth.png)
+
+**Bar graph of lowest 8 Countries by GDP growth**
+
+![Bottom 8 Countries](/Images_gdp_pop/bottom_10_gdp_growth.png)
+
+**Bar graph of top 8 Countries by Population Growth**
+
+![Top 8 Countries by Population](/Images_gdp_pop/top_8_pop_growth.png)
+
+**Bar graph of lowest 8 Countries by Population Growth**
+
+![Bottom 8 Countries by Population](/Images_gdp_pop/low_8_pop_growth.png)
+
+**Linear regression betweeen Percentage in Population Growth and GDP Growth for Top 50 Countries with Highest Population change**
+
+![Linear Regression](/Images_gdp_pop/scatter_plot_GDP_Pop.png)
+
+**Line plot to overlay percentage change in GDP and Population**
+
+![Line Plot](/Images_gdp_pop/line_graph_GDP_Pop.png)
+
