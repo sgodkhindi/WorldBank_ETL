@@ -45,6 +45,7 @@
 - [Electricity_Data_Analysis](/Project2/electricity.ipynb)
 - [Population_GDP_Data_Analysis](gdp_population_data.ipynb)
 - [Projects_Data_Analysis](projects_data.ipynb)
+- [Writing Analytics To DB](DBWrite.ipynb)
 
 ### Database Components
 - [Database_Diagram](WorldBank_ETL_Database_Diagram.svg)
