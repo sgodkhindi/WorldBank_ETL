@@ -47,6 +47,9 @@
 - [Projects_Data_Analysis Notebook](projects_data.ipynb)
 
 ### Database Components
+- [Database_Diagram](WorldBank_ETL_Database_Diagram.svg)
+- [Database_DDL_Script](WorldBank_ETL.sql)
+- [Database_Backup](WorldBank_ETL)
 
 ## Accomplishments
 
