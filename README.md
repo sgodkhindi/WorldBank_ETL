@@ -5,12 +5,13 @@
 ![World Bankers](/Project2/images/bank.gif)
 
 ## Background
+This project was to present a graphical analysis of past project undertaken by The World Bank.
 
 **Source of Data**: https://www.kaggle.com/nilaychauhan/world-bank-datasets
 
 *The data is used from World Bank data which comes from two sources:*
 
-* World Bank Indictor Data: This data contains socio-economic indicators for countries around the world
+* World Bank Indicator Data: This data contains socio-economic indicators for countries around the world
 
 [World Bank Indicator Data](https://data.worldbank.org/indicator)
 
